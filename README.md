@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Web development and Direct Memory Access
-- 🌱 I’m currently working at Amazon
+- 🔭 I’m currently working in low level systems development
+- 🌱 I’m currently working at Amazon AWS
 - 📫 How to reach me: $lack#0001 (Discord), bird.joss@gmail.com
-- 🚀 Proficient in Typescript, Python and Go
+- 🚀 Proficient in Typescript, Rust and Go
